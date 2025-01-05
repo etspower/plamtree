@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanNobelMovies.ca" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Movies",Afghan Nobel Movies
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 tvg-id="AnhuiSatelliteTV.cn" tvg-logo="https://i.imgur.com/n5LABhB.png" group-title="",Anhui Satellite TV
+http://112.25.48.68/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="General",Beijing Satellite TV
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="BingtuanSatelliteTV.cn" tvg-logo="https://i.imgur.com/Y4qxDqz.png" group-title="",Bingtuan Satellite TV
+http://49.113.179.174:4022/udp/238.125.4.13:5140
+#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/57iXCDh.png" group-title="",Canada Star TV
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
+#EXTINF:-1 tvg-id="CBAFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ici_Acadie_logo.png/512px-Ici_Acadie_logo.png" group-title="General",CBAFT-DT
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News Network
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="General",CBFT-DT
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="CBKFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png" group-title="General",CBKFT-DT
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+#EXTINF:-1 tvg-id="CBLFTDT.ca" tvg-logo="https://i.imgur.com/1f798e8.png" group-title="General",CBLFT-DT
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-id="CBOFTDT.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" group-title="General",CBOFT-DT
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="CBUFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="General",CBUFT-DT
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="CBVTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="General",CBVT-DT
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-id="CBWFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg" group-title="General",CBWFT-DT
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 tvg-id="CBXFTDT.ca" tvg-logo="https://i.imgur.com/xN4Valg.png" group-title="General",CBXFT-DT
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1
+http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10
+http://bl.dchwtq.asia:10000/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11
+http://bl.dchwtq.asia:10000/rtp/239.69.1.154:10560
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12
+http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV-13
+http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",CCTV-14
+http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15
+http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16
+http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17
+http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV-2
+http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV-3
+http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5
+http://1.85.0.62:808/hls/503/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+
+http://bl.dchwtq.asia:10000/rtp/239.254.96.234:9484
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6
+http://1.85.0.62:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7
+http://bl.dchwtq.asia:10000/rtp/239.69.1.103:10256
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV-8
+http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9
+http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="Sports",CCTV-Billiards
+http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Sports",CCTV-Storm Football
+http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="Music",CCTV-Storm Music
+http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="Movies",CCTV-Storm Theater
+http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="Documentary",CCTV-Weapon & Technology
+http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="Lifestyle",CCTV-Women's Fashion
+http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="Education",CCTV-World Geography
+http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsVancouver.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="CJBRDT.ca" tvg-logo="https://i.imgur.com/1B3d8Jc.png" group-title="General",CJBR-DT
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-id="CKSHDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",CKSH-DT
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",CKTM-DT
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="CKTVDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",CKTV-DT
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="CTSNews.tw" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="News",CTV News Channel
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-id="DegrassiTheNextGeneration.ca" tvg-logo="https://i.imgur.com/FaHYS73.png" group-title="Series",Degrassi The Next Generation
+https://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DragonTVInternational.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="General",Dragon TV International
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 tvg-id="EWTNCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Frasier.ca" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Series",Frasier
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="News",FTV Taiwan
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="GHCanadaTV.ca" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png" group-title="General",GH Canada TV
+https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNCanada.ca" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="General",GTN Canada
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-1fddbb57573c4f80bcf79c807f720178/playlist.m3u8
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/mh1I0Gz.png" group-title="",Jiangsu Satellite TV
+http://112.25.48.68/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="NETVToronto.ca" tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Movies",NETV Toronto
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",Phoenix InfoNews Channel
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="ShaanxiAgroforestrySatelliteTV.cn" tvg-logo="https://i.imgur.com/j4yT8ff.png" group-title="",Shaanxi Agroforestry Satellite TV
+http://49.113.179.174:4022/udp/238.125.4.154:5140
+#EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn" tvg-logo="https://i.imgur.com/mzqA5YX.png" group-title="",Shenzhen Satellite TV
+http://112.25.48.68/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="",Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/NFFQNhq.png" group-title="",Zhejiang Satellite TV
+http://112.25.48.68/live/program/live/zjwshd/4000000/mnf.m3u8
